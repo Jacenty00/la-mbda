@@ -82,7 +82,6 @@ setup(
         'Werkzeug==1.0.1',
         'wrapt==1.12.1',
         'xmltodict==0.12.0',
-        'zipp==3.4.1',
-        'safety_gym @ https://github.com/yardenas/safety-gym/tarball/dm_hack'
+        'zipp==3.4.1'
     ]
 )
