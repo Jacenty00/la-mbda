@@ -55,7 +55,7 @@ setup(
         'numpy==1.19.2',
         'oauthlib==3.1.0',
         'opt-einsum==3.3.0',
-        'Pillow==7.2.0',
+        'Pillow==8.3.2',
         'proglog==0.1.9',
         'protobuf==3.15.5',
         'pyasn1==0.4.8',
