@@ -38,7 +38,7 @@ setup(
         'google-auth-oauthlib==0.4.3',
         'google-pasta==0.2.0',
         'grpcio==1.32.0',
-        'gym==0.18.0',
+        'gym',
         'h5py==2.10.0',
         'idna==2.10',
         'imageio-ffmpeg==0.4.3',
